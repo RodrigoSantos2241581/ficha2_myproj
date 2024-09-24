@@ -1,6 +1,11 @@
 Este é um exemplo de texto file3
 
+<h2>Bebidas</h2>
 
+<ul>
+	<li>Coffee</li>
+	<li>Tea</li>
+	<li>Milk</li>
 
 Estou a fazer o exercicio
 

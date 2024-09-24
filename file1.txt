@@ -6,3 +6,5 @@ Estou a fazer alteracoes ao ficheiro.
 Alteracoes efetuadas no branch NovaFeature
 
 Alteracoes no branch NovaFeature
+
+Alteracoes no branch MASTER
