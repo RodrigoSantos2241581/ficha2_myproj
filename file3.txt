@@ -6,4 +6,15 @@ Este é um exemplo de texto file3
 	<li>Coffee</li>
 	<li>Tea</li>
 	<li>Milk</li>
+
+Estou a fazer o exercicio
+
+<h1>Listas de coisas</h1>
+
+<h2>Comidas</h2>
+
+<ul>
+	<li>Bolos</li>
+	<li>Tostas</li>
+	<li>Sandes</li>
 </ul>
